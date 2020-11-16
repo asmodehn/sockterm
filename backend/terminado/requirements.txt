@@ -1,0 +1,9 @@
+terminado==0.9.1  # CAREFUL : js file may be missing in some dists : https://github.com/jupyter/terminado/issues/83
+tornado==6.1
+tornado-xstatic==0.2
+XStatic==1.0.2
+XStatic-term.js==0.0.7.0
+
+# possible interactive python repls for testing the terminal
+# ptpython==3.0.7
+# ipython==7.19.0
